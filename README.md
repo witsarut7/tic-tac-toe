@@ -22,11 +22,9 @@ This is a web application for playing Tic-tac-toe (OX Game) where users can play
 
 ## Project Structure
 
-- **`/pages`**: Contains Next.js pages, including login and game components.
+- **`/pages`**: Contains Next.js pages, including login, game and scores page.
 - **`/lib`**: Contains utility files, including Prisma and session management.
-- **`/components`**: Contains reusable UI components.
 - **`/public`**: Contains static assets such as images.
-- **`/styles`**: Contains global and component-specific styles.
 - **`/api`**: Contains API routes for managing scores and authentication.
 
 ## Setup
